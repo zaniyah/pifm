@@ -1,6 +1,3 @@
-```diff
-- Note: this project is no longer maintained
-```
 
 ## UPDATE
 
